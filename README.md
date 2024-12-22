@@ -35,5 +35,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abantika02&background=0D1117&border=FFFFFF&stroke=E6E6E6&ring=FF5370&fire=FF5370&currStreakLabel=FF5370&sideLabels=E6E6E6&dates=E6E6E6&currStreakNum=FFD700" alt="Abantika02" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abantika02&background=0D1117&border=FFFFFF&stroke=E6E6E6&ring=FF5370&fire=FF5370&currStreakLabel=FF5370&sideLabels=FF5370&dates=E6E6E6&currStreakNum=FFD700&sideNums=FFD700" alt="Abantika02" />
 </p>
